@@ -9,6 +9,7 @@ We need multiple data sources to train the model. The data sources include:
 - Remote Sensing Image (City_id.png)
 - Building footprints (City_id_building.png)
 - Building height (City_id_height.png)
+- 
 Please refer to the folder "datasets/source" for more details.
 
 ### Generate the embedding of VLM
